@@ -293,7 +293,7 @@ $(document).ready(function () {
       ],
       2500: [
         "https://buy.stripe.com/aEU7uc5avfdb6v614l",
-        "https://buy.stripe.com/8wM8ygdH11ml4mY28o",
+        "https://buy.stripe.com/8wMbKseL51mlbPq9AW",
       ],
     },
   ];
